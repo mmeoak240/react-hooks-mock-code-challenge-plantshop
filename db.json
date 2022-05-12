@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Venus flytrap",
+      "image": "https://media.architecturaldigest.com/photos/606dde44b2dc545c7b166cfc/16:9/w_4495,h_2528,c_limit/GettyImages-92226847.jpg",
+      "price": "35",
+      "id": 8
+    },
+    {
+      "name": "Venus flytrap",
+      "image": "https://media.architecturaldigest.com/photos/606dde44b2dc545c7b166cfc/16:9/w_4495,h_2528,c_limit/GettyImages-92226847.jpg",
+      "price": "7.99",
+      "id": 9
     }
   ]
 }
